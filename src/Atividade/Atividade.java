@@ -22,6 +22,40 @@ public class Atividade {
         //    5   float metros = 2.67f;
         //        System.out.println("Essa medida em centimetros é : " + metros*100 );
 
+        //            6-Scanner scan = new Scanner(System.in);
+//              System.out.println("Qual a area do circulo?");
+//              double raio = scan.nextDouble();
+//              double area = Math.PI * Math.pow(raio, 2);
+//              System.out.println(area);
+
+
+//            7-Scanner Scan = new Scanner(System.in);
+//              System.out.println("Informe um lado do quadrado ");
+//              double raio = Scan.nextDouble();
+//              double result = Math.pow(raio, 2);
+//              System.out.println("A área é "+ result);
+//              double res = result*2;
+//              System.out.println(res);
+
+//            8-Scanner scan = new Scanner(System.in);
+//              System.out.println("Quanto você ganha por hora?");
+//              float hora = scan.nextFloat();
+//              Scanner Scan = new Scanner(System.in);
+//              System.out.println("Quantas horas você trabalha por mês?");
+//              float sal = scan.nextFloat();
+//              System.out.println(hora * sal);
+
+
+//             9-Scanner Scan = new Scanner(System.in);
+//               System.out.println("Qual a temperatura em Fahrenheit");
+//               float temp = Scan.nextFloat();
+//               System.out.println((temp-32)/1.8);
+
+//            10-Scanner Scan = new Scanner(System.in);
+//               System.out.println("Qual a temperatura em graus  Celsius?");
+//               float temp = Scan.nextFloat();
+//               System.out.println((temp*1.8)+32);
+
 
 
     }
